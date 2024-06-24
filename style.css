@@ -1,0 +1,85 @@
+body{
+
+    margin: 0;
+
+}
+
+#header {
+
+    width: 100%;
+    height: 47px;
+    background-color: aqua;
+    display: flex;
+    padding-left: 20%;
+    text-align: center;
+
+
+}
+
+#headerP1 {
+
+    background-color: brown;
+    height: 47px;
+    width: 30%;
+    text-align: left;
+}
+
+#headerP2 {
+
+    background-color: rgb(116, 150, 66);
+    height: 47px;
+    width: 30%;
+
+}
+
+#email{
+
+    margin-top: 15.75px;
+    width: 17px;
+    
+
+}
+
+#emailTxt {
+
+    margin-left: 7px;
+    font-family: 'cairo';
+    position: absolute;
+    margin-top: 9px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+#logo {
+
+    margin-left: 21%;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
